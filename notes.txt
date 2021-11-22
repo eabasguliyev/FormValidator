@@ -1,0 +1,2 @@
+higher order array methods
+Regex Object in JS
